@@ -1,0 +1,1 @@
+MaxDistanceReachability = 1127.09

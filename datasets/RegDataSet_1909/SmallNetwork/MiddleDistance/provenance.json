@@ -1,0 +1,17 @@
+{
+  "generator": "optical_network_dataset_generator",
+  "prng": "sha256",
+  "seed": "9079bb6081f61724adcb29ed21b8164f68946a8d264341d85b34ceffbcf6e855",
+  "modulus": "1000036000099",
+  "params": {
+    "nodes": 20,
+    "demands": 12,
+    "degree": 3,
+    "colors": 80,
+    "reach": 1200.0
+  },
+  "counts": {
+    "links": 30,
+    "demands": 12
+  }
+}
